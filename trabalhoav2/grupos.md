@@ -13,7 +13,7 @@ Capítulo/título do vídeo :
 Grupo 2:   
 ---------  
 Componentes: Daniel Campanha - danielcampanha / Ricardo Chimenes - ricardochimenes / Nathan Cunha - nathanmcunha
-Tema: Google Drive  
+Tema: Google Presentation
 
 Capítulo/título do vídeo :  
 1 - Criar e editar apresentações    
